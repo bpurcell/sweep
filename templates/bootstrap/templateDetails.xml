@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="template">
+    <name>bootstrapforsweep</name>
+	<creationDate>2011-12-01</creationDate>
+	<author>Bennington</author>
+	<authorEmail>bennington.purcell@gmail.com</authorEmail>
+	<authorUrl>http://www.porosventures.com</authorUrl>
+	<copyright>Bennington Purcell 2011</copyright>
+	<license>GNU/GPL</license>
+	<version>0.1.1</version>
+	<description>Bootstrapper</description>
+
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>footer</position>
+	</positions>
+</extension>
